@@ -10,7 +10,7 @@
     top: 0;             
     left: 0;            
     width: 100%;
-    background-image: url("/public/images/wall_of_fire.gif"); 
+    background-image: url("wall_of_fire.gif"); 
     background-size: cover; 
     background-position: center; 
     color: rgb(255, 165, 0);
@@ -64,7 +64,7 @@
 
 
 .BOOM_logo {
-    content: url("/public/images/BOOM_logo.png");
+    content: url("BOOM_logo.png");
     display: inline-block;  
     width: 40px;
     height: auto;
@@ -116,7 +116,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/public/images/computer-repair.png");
+    background-image: url("computer-repair.png");
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -166,7 +166,7 @@ body {
 
 
 .motherboard {
-    src: url("/public/images/motherboard.jpg");
+    src: url("motherboard.jpg");
     display: block;
     width: 1000px;
     height: auto;
